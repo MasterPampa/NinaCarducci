@@ -67,10 +67,6 @@ nav a {
 	z-index: 0;
 }
 
-.nina{
-	width: 100%;
-	height: 100%;
-}
 #about-me {
 	flex: 2
 }
@@ -126,10 +122,7 @@ nav a {
 	object-fit: cover;
 	padding: .5em;
 }
-.iwata{
-	width: 100%;
-	height: 100%;
-}
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
