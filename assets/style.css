@@ -97,8 +97,8 @@ nav a {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
-	background-color: #968E47;
+	color: black;
+	background-color: #BEB45A;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -202,7 +202,7 @@ nav a {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: orange;
+	background-color: #BEB45A;
 	width: 374px;
 	height: 329px;
 	position: absolute;
