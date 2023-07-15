@@ -202,7 +202,7 @@ nav a {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: orange;
 	width: 374px;
 	height: 329px;
 	position: absolute;
